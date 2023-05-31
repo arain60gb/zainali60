@@ -18,6 +18,7 @@ class ZainAli:
 me = ZainAli()
 me.say_hi()
 ```
+<!-- ![Emerging Tech Grid](https://emergingtechgrid.com/) -->
 Welcome to my profile! I am a machine learning engineer with a strong background in Python and a passion for creating intelligent systems that can learn from data and make accurate predictions.
 
 With expertise in deep learning frameworks such as TensorFlow and PyTorch, I have built and deployed models for a variety of applications, including image classification, natural language processing (NLP), and predictive analytics.
