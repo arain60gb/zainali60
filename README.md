@@ -3,9 +3,21 @@
 # Hi there 👋, I'm Zain Ali
 ## I am NLP Enigneer
 ![I am NLP Enigneer](https://media.licdn.com/dms/image/C4D16AQHRgGi-G4FCMQ/profile-displaybackgroundimage-shrink_350_1400/0/1630609555523?e=1687996800&v=beta&t=exdRZq8gmZRuuyOQIPHZNyjW5_3v9uqUlyPAchy7TO8)
+```
+class ZainAli:
 
-Certainly! Here's a possible about me section based on the information you provided:
+    def __init__(self):
+        self.name = "Zain Ali"
+        # self.researcher = True
+        self.developer = True
+        self.languages = ["en_US"]
 
+    def say_hi(self):
+        print(f"I'm glad you read my intro! My name is {self.name} Please also visit my website ETG")
+
+me = ZainAli()
+me.say_hi()
+```
 Welcome to my profile! I am a machine learning engineer with a strong background in Python and a passion for creating intelligent systems that can learn from data and make accurate predictions.
 
 With expertise in deep learning frameworks such as TensorFlow and PyTorch, I have built and deployed models for a variety of applications, including image classification, natural language processing (NLP), and predictive analytics.
